@@ -1,4 +1,5 @@
 {
   "allowed": ["Dragon Cannelloni", "Celularcini Viciosini", "Ketupat Kepat", "Strawberry Elephant", "Spooky and Pumpky", "La Secret Combinasion", "Burguro And Fryuro", "Tictac Sahur", "Garama and Madundung", "Los Spaghettis", "Fragrama and Chocrama", "Meowl", "La Casa Boo", "La Taco Combinasion", "Headless Horseman", "Capitano Moby", "W or L", "Ketchuru and Musturu", "La Supreme Combinasion", "Cooki and Milki", "Tang Tang Keletang", "Reinito Sleighito", "Lavadorito Spinito", "Dragon Gingerini", "Raccooni Jandelini", "Nuclearo Dinossauro", "Money Money Reindeer", "Jolly Jolly Sahur", "Ginger Gerat", "Skibidi Toilet", "Ketupat Bros", "Cerberus", "Hydra Dragon Canelloni", "Popcuru and Fizzuru", "Absolute Cinema", "Love Love Bear", "Rosey and Teddy", "Rosetti Tualetti"],
-  "priority": ["Meowl", "Cerberus", "Skibidi Toilet", "Hydra Dragon Cannelloni", "La Supreme Combinasion", "Burguro And Fryuro", "La Casa Boo", "Headless Horseman", "Strawberry Elephant", "Garama and Madundung"]
+  "priority": ["Meowl", "Cerberus", "Skibidi Toilet", "Hydra Dragon Cannelloni", "La Supreme Combinasion", "Burguro And Fryuro", "La Casa Boo", "Headless Horseman", "Strawberry Elephant", "Garama and Madundung"],
+  "targets": [10297070825]
 }
